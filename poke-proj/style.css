@@ -1,0 +1,86 @@
+#pokeNames{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+#randoPokeStats
+{
+  text-align: center;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+
+#buttons
+{
+    color: black;
+    text-align: center;
+}
+
+#logo
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#intro
+{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+
+#pokemonImages
+{
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#names
+{
+  text-align: center;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+
+#randoPoke
+{
+  text-align: center;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body
+{
+  background-color: rgb(69, 107, 212);
+}
+
+#head
+{
+  background-color: #f44336;
+  text-align: center;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#pokeStat
+{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
